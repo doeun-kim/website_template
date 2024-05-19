@@ -15,6 +15,7 @@ Here are the steps to follow:
   - Branch: main - /(root) 
   Then, click "save"
 6. Add more html pages and customize your website (Use Google and ChatGPT!)
+  - I distributed an old version template to a few people. You can find a good example of personalizing the template from [Soonhong Cho](http://soonhong-cho.github.io)'s website.
 7. delete "README.md" file in the repository
 
 Now go to "<your_github_id>.github.io" to check your website
