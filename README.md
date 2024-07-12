@@ -22,6 +22,7 @@ Now go to "<your_github_id>.github.io" to check your website
 
 It might take some time for your website to be updated after you make any changes in your repository (less than 5 minutes usually)
 
+Another template widely used in academia: https://github.com/academicpages/academicpages.github.io
 
 Note that there is a fancier way to build a website: https://jekyllrb.com
 
